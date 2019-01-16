@@ -1,0 +1,113 @@
+body{
+    margin :0;
+    padding:0;
+}
+
+h1{
+    padding: 2px 2px 2px 0px;
+}
+
+.zcool{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.thasadith{
+    font-family: 'Thasadith', sans-serif;
+}
+.shadow{
+    color: #290404;
+    text-shadow: 4px 4px 0 #00ccff;
+}
+
+.big-font{
+    font-size:500%;
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+
+li{
+    float:right;
+}
+
+li a{
+    display:block;
+    font-family: 'Ubuntu', sans-serif;
+    color:white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.block-intro{
+    height:400px;
+    padding-left:10px;
+}
+
+.block-resume{
+    height:900px;
+    padding-left:10px;
+}
+
+.right{
+    float:right;
+    padding-right:15px;
+}
+
+
+dl{
+    /* position: relative; */
+}
+
+
+dt{
+    
+    border-right: 2px solid black;
+    font-size:150%;
+    width:200px;
+    height:150px;
+    float:left;
+}
+
+dd{
+    width:500px;
+    height:200px;
+    margin:0 auto 0 auto;   
+}
+
+.navbar{
+    background-color: black;
+    /* position:fixed; */
+}
+
+.page-wrap{
+    width:1000px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.center{
+    /* text-align: center; */
+}
+
+.right{
+    display:block;
+    float:right;
+}
+
+.introduction{
+    width:500px;
+    margin:0 0 0 auto;
+}
+
+.abel{
+    font-family: 'Abel', sans-serif;
+}

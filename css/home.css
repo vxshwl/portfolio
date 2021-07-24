@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  font-family: "Zen Loop", cursive;
+}
+
+section {
+  background-color: whitesmoke;
+  padding: 0.5em;
+  margin: 5em;
+}
+
+h1 {
+  padding: 1em;
+  font-size: 100px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border-style: solid;
+  padding: 10px;
+}
+
+#a1 {
+  float: right;
+}
